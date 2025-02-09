@@ -1,1 +1,1 @@
-# StoiIML: Classifying the Stoichiometry of Virus-like Particles with Interpretable Machine Learning
+# Classifying the Stoichiometry of Virus-like Particles with Interpretable Machine Learning
