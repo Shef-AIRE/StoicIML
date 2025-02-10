@@ -1,0 +1,5 @@
+SEQ:
+  MAX_LEN: 1426  # max length: 1426
+
+RESULT:
+  OUTPUT_DIR: "./study2-top-position/trial-result-VLP200-laplacian"

@@ -1,0 +1,5 @@
+SEQ:
+  MAX_LEN: 171  # max length: 1426
+
+RESULT:
+  OUTPUT_DIR: "./study1-truncate-result/trial-result-VLP200"

@@ -1,0 +1,5 @@
+SEQ:
+  MAX_LEN: 1426
+
+RESULT:
+  OUTPUT_DIR: "./main-exp-result/trial-result-VLP200"
