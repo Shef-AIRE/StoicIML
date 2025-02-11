@@ -116,7 +116,7 @@ def  main():
                 reduce_variance=False
             )
 
-            best_blueprint, metadata = linear_trainer.optimise(
+            best_framework, metadata = linear_trainer.optimise(
                 objective_with_params,
                 random_state=cfg.MODEL.SEED,
                 n_startup_trials = 100,  # for global search
@@ -127,12 +127,12 @@ def  main():
 
             hyperparameters.update({
                 f"seed{seed}_fold{fold}": {
-                    "best_blueprint": best_blueprint,
+                    "best_framework": best_framework,
                     "metadata": metadata
                 }
             })
 
-            test(blueprint=best_blueprint,
+            test(framework=best_framework,
 
                  df_train=df_train,  # data parameters
                  df_test=df_test,
@@ -144,7 +144,7 @@ def  main():
                  )
 
             # ----- test on unseen dataset -----
-            test(blueprint=best_blueprint,
+            test(framework=best_framework,
 
                  df_train=df_train,  # data parameters
                  df_test=df_unseen,
@@ -182,7 +182,7 @@ def  main():
     with open(os.path.join(export_dir, "misc.pkl"), "wb") as file:
         pickle.dump(misc, file)
 
-    with open(os.path.join(export_dir, "best_blueprints.yml"), "w") as f:
+    with open(os.path.join(export_dir, "best_frameworks.yml"), "w") as f:
         yaml.dump(hyperparameters, f)
 
     # ----- Export results on unseen dataset -----
