@@ -1,0 +1,1100 @@
+seed0_fold0:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7555555555555555
+seed0_fold1:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.7388888888888888
+seed0_fold2:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7333333333333333
+seed0_fold3:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 0.25
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0008
+    score_from_best_trial: 0.7277777777777777
+seed0_fold4:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 0.125
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0022
+    score_from_best_trial: 0.6833333333333333
+seed0_fold5:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 3.0517578125e-05
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0001
+    score_from_best_trial: 0.7499999999999999
+seed0_fold6:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.6944444444444445
+seed0_fold7:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7166666666666667
+seed0_fold8:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.7222222222222222
+seed0_fold9:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 1.0
+      class_weight: balanced
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0000
+    score_from_best_trial: 0.7166666666666667
+seed1_fold0:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.6944444444444444
+seed1_fold1:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 2.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0003
+    score_from_best_trial: 0.7000000000000001
+seed1_fold2:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.7277777777777777
+seed1_fold3:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7166666666666667
+seed1_fold4:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7666666666666667
+seed1_fold5:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 0.5
+      class_weight: balanced
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0005
+    score_from_best_trial: 0.711111111111111
+seed1_fold6:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.7555555555555555
+seed1_fold7:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.7
+seed1_fold8:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.7222222222222222
+seed1_fold9:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7111111111111111
+seed2_fold0:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.6944444444444444
+seed2_fold1:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7277777777777777
+seed2_fold2:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7333333333333333
+seed2_fold3:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7111111111111111
+seed2_fold4:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7277777777777779
+seed2_fold5:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 1.0
+      class_weight: balanced
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0000
+    score_from_best_trial: 0.6944444444444444
+seed2_fold6:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7444444444444444
+seed2_fold7:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7111111111111111
+seed2_fold8:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 1.0
+      class_weight: balanced
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0000
+    score_from_best_trial: 0.7333333333333333
+seed2_fold9:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7388888888888889
+seed3_fold0:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 1.0
+      class_weight: balanced
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0000
+    score_from_best_trial: 0.7166666666666666
+seed3_fold1:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 2.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0003
+    score_from_best_trial: 0.7277777777777777
+seed3_fold2:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 1.0
+      class_weight: balanced
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0000
+    score_from_best_trial: 0.7444444444444445
+seed3_fold3:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7277777777777777
+seed3_fold4:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7055555555555556
+seed3_fold5:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7666666666666666
+seed3_fold6:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 2.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0003
+    score_from_best_trial: 0.7222222222222222
+seed3_fold7:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7111111111111111
+seed3_fold8:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7166666666666667
+seed3_fold9:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7333333333333333
+seed4_fold0:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.711111111111111
+seed4_fold1:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7444444444444445
+seed4_fold2:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 0.03125
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0004
+    score_from_best_trial: 0.7444444444444445
+seed4_fold3:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 0.125
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0022
+    score_from_best_trial: 0.6944444444444445
+seed4_fold4:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.7333333333333334
+seed4_fold5:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7388888888888889
+seed4_fold6:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 3.0517578125e-05
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0001
+    score_from_best_trial: 0.7166666666666667
+seed4_fold7:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 1.0
+      class_weight: balanced
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0000
+    score_from_best_trial: 0.7
+seed4_fold8:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7277777777777777
+seed4_fold9:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.6777777777777777
+seed5_fold0:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 3.0517578125e-05
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0001
+    score_from_best_trial: 0.7277777777777777
+seed5_fold1:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.6777777777777778
+seed5_fold2:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7388888888888889
+seed5_fold3:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 2.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0003
+    score_from_best_trial: 0.7388888888888889
+seed5_fold4:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.7166666666666666
+seed5_fold5:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.6888888888888889
+seed5_fold6:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7
+seed5_fold7:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7444444444444445
+seed5_fold8:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7333333333333333
+seed5_fold9:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7166666666666667
+seed6_fold0:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.7166666666666667
+seed6_fold1:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.75
+seed6_fold2:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 1.0
+      class_weight: balanced
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0000
+    score_from_best_trial: 0.7333333333333333
+seed6_fold3:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7000000000000001
+seed6_fold4:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 1.0
+      class_weight: balanced
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0000
+    score_from_best_trial: 0.7722222222222223
+seed6_fold5:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7388888888888888
+seed6_fold6:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.6888888888888888
+seed6_fold7:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7111111111111111
+seed6_fold8:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7333333333333333
+seed6_fold9:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7277777777777777
+seed7_fold0:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 1.0
+      class_weight: balanced
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0000
+    score_from_best_trial: 0.7222222222222221
+seed7_fold1:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7611111111111111
+seed7_fold2:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7555555555555556
+seed7_fold3:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7388888888888889
+seed7_fold4:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 2.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0003
+    score_from_best_trial: 0.7222222222222222
+seed7_fold5:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 1.0
+      class_weight: balanced
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0000
+    score_from_best_trial: 0.7000000000000001
+seed7_fold6:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7055555555555555
+seed7_fold7:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.6777777777777777
+seed7_fold8:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.6888888888888889
+seed7_fold9:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.7555555555555556
+seed8_fold0:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7333333333333334
+seed8_fold1:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.7111111111111111
+seed8_fold2:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7333333333333333
+seed8_fold3:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7333333333333334
+seed8_fold4:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.7333333333333333
+seed8_fold5:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.711111111111111
+seed8_fold6:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 2.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0003
+    score_from_best_trial: 0.7388888888888888
+seed8_fold7:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 3.0517578125e-05
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0001
+    score_from_best_trial: 0.7444444444444445
+seed8_fold8:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7444444444444444
+seed8_fold9:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 2.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0003
+    score_from_best_trial: 0.6944444444444444
+seed9_fold0:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7222222222222222
+seed9_fold1:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 0.5
+      class_weight: balanced
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0005
+    score_from_best_trial: 0.7777777777777778
+seed9_fold2:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.6666666666666666
+seed9_fold3:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7166666666666667
+seed9_fold4:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 1.0
+      class_weight: balanced
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0000
+    score_from_best_trial: 0.6944444444444444
+seed9_fold5:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7777777777777778
+seed9_fold6:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.7333333333333334
+seed9_fold7:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 4.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0018
+    score_from_best_trial: 0.7388888888888889
+seed9_fold8:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 16.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0010
+    score_from_best_trial: 0.7444444444444445
+seed9_fold9:
+  best_blueprint:
+    name: ridge
+    params:
+      alpha: 8.0
+      class_weight: null
+      max_iter: 1000
+      random_state: 5
+  metadata:
+    best_trial: trial-0034
+    score_from_best_trial: 0.7500000000000001

@@ -40,10 +40,10 @@ def  main():
 
 
     # ---- setup unseen dataset ----
-    unseen_datapath = f'./datasets/curated/VLP_unseen.csv'
-    df_unseen = pd.read_csv(unseen_datapath, usecols=['Protein sequence', 'Stoichiometry'])
-    df_unseen = df_unseen[df_unseen['Stoichiometry'].isin([60, 180])]
-    df_unseen['Stoichiometry'].replace({60: 0, 180: 1}, inplace=True) # stoichiometry= 60->0: 97 samples, stoichiometry=180->1: 60 samples
+    # unseen_datapath = f'./datasets/curated/VLP_unseen.csv'
+    # df_unseen = pd.read_csv(unseen_datapath, usecols=['Protein sequence', 'Stoichiometry'])
+    # df_unseen = df_unseen[df_unseen['Stoichiometry'].isin([60, 180])]
+    # df_unseen['Stoichiometry'].replace({60: 0, 180: 1}, inplace=True) # stoichiometry= 60->0: 97 samples, stoichiometry=180->1: 60 samples
 
 
 
@@ -65,7 +65,7 @@ def  main():
 
     # ---- setup result dict ----
     sum_of_scores, misc, hyperparameters = result_holder()
-    unseen_sum_of_scores, unseen_misc, _ = result_holder()
+    # unseen_sum_of_scores, unseen_misc, _ = result_holder()
 
 
     ### LOOP1: RANDOM REPEATS
@@ -136,15 +136,15 @@ def  main():
                  )
 
             # ----- test on unseen dataset -----
-            test(framework=best_framework,
-
-                 df_train=df_train,  # data parameters
-                 df_test=df_unseen,
-
-                 sum_of_scores=unseen_sum_of_scores,
-                 misc=unseen_misc,
-                 max_length=cfg.SEQ.MAX_LEN,
-                 )
+            # test(framework=best_framework,
+            #
+            #      df_train=df_train,  # data parameters
+            #      df_test=df_unseen,
+            #
+            #      sum_of_scores=unseen_sum_of_scores,
+            #      misc=unseen_misc,
+            #      max_length=cfg.SEQ.MAX_LEN,
+            #      )
 
 
     # ---- append running time to sum_of_scores ----
@@ -152,7 +152,7 @@ def  main():
     total_running_time = round(e - s, 2)
     print(f"Total running time: {total_running_time}s")
     sum_of_scores["running_time"] = total_running_time
-    unseen_sum_of_scores["running_time"] = total_running_time
+    # unseen_sum_of_scores["running_time"] = total_running_time
 
 
     # ----- Export results -----
@@ -177,14 +177,14 @@ def  main():
         yaml.dump(hyperparameters, f)
 
     # ----- Export results on unseen dataset -----
-    print("accuracy mean", np.mean(unseen_sum_of_scores["accuracy"]), "std", np.std(unseen_sum_of_scores["accuracy"]))
-    print("auroc mean", np.mean(unseen_sum_of_scores["auroc"]), "std", np.std(unseen_sum_of_scores["auroc"]))
-
-    with open(os.path.join(export_dir, "unseen_sum_of_scores.pkl"), "wb") as file:
-        pickle.dump(unseen_sum_of_scores, file)
-
-    with open(os.path.join(export_dir, "unseen_misc.pkl"), "wb") as file:
-        pickle.dump(unseen_misc, file)
+    # print("accuracy mean", np.mean(unseen_sum_of_scores["accuracy"]), "std", np.std(unseen_sum_of_scores["accuracy"]))
+    # print("auroc mean", np.mean(unseen_sum_of_scores["auroc"]), "std", np.std(unseen_sum_of_scores["auroc"]))
+    #
+    # with open(os.path.join(export_dir, "unseen_sum_of_scores.pkl"), "wb") as file:
+    #     pickle.dump(unseen_sum_of_scores, file)
+    #
+    # with open(os.path.join(export_dir, "unseen_misc.pkl"), "wb") as file:
+    #     pickle.dump(unseen_misc, file)
 
 
 
