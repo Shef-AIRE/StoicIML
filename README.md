@@ -1,8 +1,7 @@
 # Classifying the Stoichiometry of Virus-like Particles with Interpretable Machine Learning
 
 ## Introduction 
-This repository contains the scikit-learn implementation of the pipeline, as shown below. 
-
+This repository contains the scikit-learn implementation of the **StoicIML** pipeline, as shown below. **StoicIML** is an an interpretable, data-driven pipeline that leverages linear machine learning models to classify protein stoichiometry in virus-like particle assembly. 
 ## Pipeline
 ![VLP-workflow](image/VLP-workflow-7.png)
 
@@ -17,12 +16,13 @@ pip install -r requirements.txt
 
 ## Reproduce Results
 * The basic configurations are in``configs/congigs.py``, main experiment configs in ``configs/main_exp/VLP_200.yaml``, and ablation study configs in ``configs/study1_truncate/*.yaml`` and ``configs/study2_position_selection/*.yaml``.
-* For the main experiments, you can directly run the following command.
+
+For the main experiments, you can directly run the following command.
 ```
 chmod +x ./shell_scripts/main_experiments.sh
 ./shell_scripts/main_experiments.sh
 ```
-* For the ablation study, you can run
+For the ablation study, you can run
 ```
 chmod +x ./shell_scripts/ablation_study.sh
 ./shell_scripts/ablation_study.sh
