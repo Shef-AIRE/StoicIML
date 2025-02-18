@@ -31,7 +31,15 @@ chmod +x ./shell_scripts/ablation_study.sh
 ## Citation
 Please cite our paper if you find it useful.
 ```
-To be updated
+@misc{zhang2025classifyingstoichiometryviruslikeparticles,
+      title={Classifying the Stoichiometry of Virus-like Particles with Interpretable Machine Learning}, 
+      author={Jiayang Zhang and Xianyuan Liu and Wei Wu and Sina Tabakhi and Wenrui Fan and Shuo Zhou and Kang Lan Tee and Tuck Seng Wong and Haiping Lu},
+      year={2025},
+      eprint={2502.12049},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2502.12049}, 
+}
 ```
 
 ## References
